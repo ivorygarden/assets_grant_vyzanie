@@ -1559,9 +1559,9 @@ section.lazy-placeholder:after {
   position: absolute !important;
   right: 4vw !important;
   top: 4vh !important;
-  color: #ffc600 !important;
+  color: #20c997 !important;
   z-index: 5000000 !important;
-  font-size: 37px !important;
+  font-size: 27px !important;
   background: #000 !important;
   padding: 20px !important;
   border-radius: 50% !important;
