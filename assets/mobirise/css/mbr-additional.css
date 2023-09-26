@@ -1556,18 +1556,18 @@ section.lazy-placeholder:after {
   margin: 0 auto !important;
 }
 .cid-s2V9SnoqGp a.close {
-  position: absolute;
-  right: 4vw;
-  top: 4vh;
-  color: #ffc600;
-  z-index: 5000000;
-  font-size: 37px;
-  background: #000;
-  padding: 20px;
-  border-radius: 50%;
+  position: absolute !important;
+  right: 4vw !important;
+  top: 4vh !important;
+  color: #ffc600 !important;
+  z-index: 5000000 !important;
+  font-size: 37px !important;
+  background: #000 !important;
+  padding: 20px !important;
+  border-radius: 50% !important;
 }
 .cid-s2V9SnoqGp a.close:hover {
-  color: #ffc600;
+  color: #ffc600 !important;
 }
 @media (max-width: 991px) {
   .cid-s2V9SnoqGp .separator,
@@ -2735,38 +2735,38 @@ section.lazy-placeholder:after {
   margin: 0 auto !important;
 }
 .cid-s2V9WbyI4t a.close {
-  position: absolute;
-  right: 4vw;
-  top: 4vh;
-  color: #ffc600;
-  z-index: 5000000;
-  font-size: 37px;
-  background: #000;
-  padding: 20px;
-  border-radius: 50%;
+  position: absolute !important;
+  right: 4vw !important;
+  top: 4vh !important;
+  color: #ffc600 !important;
+  z-index: 5000000 !important;
+  font-size: 37px !important;
+  background: #000 !important;
+  padding: 20px !important;
+  border-radius: 50% !important;
 }
 .cid-s2V9WbyI4t a.close:hover {
-  color: #ffc600;
+  color: #ffc600 !important;
 }
 .cid-s2V9WbyI4t .icon-wrap {
-  background-color: #ffffff;
-  opacity: 0.8;
-  border-radius: 50%;
-  width: 60px;
-  height: 60px;
-  margin: auto;
-  display: flex;
-  -webkit-box-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  align-items: center;
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-  -webkit-animation-delay: 0.3s;
-  animation-delay: 0.3s;
-  box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.45);
-  -webkit-animation: rippleOne 3s infinite;
-  animation: rippleOne 3s infinite;
+  background-color: #ffffff !important;
+  opacity: 0.8 !important;
+  border-radius: 50% !important;
+  width: 60px !important;
+  height: 60px !important;
+  margin: auto !important;
+  display: flex !important;
+  -webkit-box-pack: center !important;
+  justify-content: center !important;
+  -webkit-box-align: center !important;
+  align-items: center !important;
+  -webkit-transition: all 0.3s !important;
+  transition: all 0.3s !important;
+  -webkit-animation-delay: 0.3s !important;
+  animation-delay: 0.3s !important;
+  box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.45) !important;
+  -webkit-animation: rippleOne 3s infinite !important;
+  animation: rippleOne 3s infinite !important;
 }
 .cid-s2V9WbyI4t .icon-wrap:hover {
   background-color: #eeeff2 !important;
